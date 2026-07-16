@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+with+C%2B%2B+%26+Java;%F0%9F%93%B1+Crafting+Apps+with+Flutter;%F0%9F%94%A5+Learning+%2F+Shipping+%2F+Repeating;%F0%9F%8E%93+Computer+Science+Student" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-4F46E5?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍_PAKISTAN-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/⚡_CS_STUDENT-F472B6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/_OPEN_TO_WORK-4F46E5?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/_PAKISTAN-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/_CS_STUDENT-F472B6?style=for-the-badge&labelColor=1a1a2e"/>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Humayunkhalid5&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Humayunkhalid5?label=FOLLOWERS&color=C084FC&style=for-the-badge&logo=github&logoColor=white"/>
