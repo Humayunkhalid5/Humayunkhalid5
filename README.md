@@ -1,20 +1,21 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A78BFA&height=230&section=header&text=Humayun%20Khalid&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20Flutter%20App%20Developer%20•%20CS%20Student&descAlignY=56&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:8B5CF6,70:C084FC,100:F472B6&height=250&section=header&text=Hi%20There%2C%20I'm%20Humayun%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Developer%20•%20Flutter%20App%20Developer%20•%20CS%20Student&descAlignY=54&descSize=18" width="100%"/>
 <a href="https://github.com/Humayunkhalid5">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+with+C%2B%2B+%26+Java;Crafting+Apps+with+Flutter;Learning+%2F+Shipping+%2F+Repeating;Computer+Science+Student+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+with+C%2B%2B+%26+Java;%F0%9F%93%B1+Crafting+Apps+with+Flutter;%F0%9F%94%A5+Learning+%2F+Shipping+%2F+Repeating;%F0%9F%8E%93+Computer+Science+Student" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-6366F1?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Based%20in-Pakistan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_OPEN_TO_WORK-4F46E5?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_PAKISTAN-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/⚡_CS_STUDENT-F472B6?style=for-the-badge&labelColor=1a1a2e"/>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Humayunkhalid5&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Humayunkhalid5?label=FOLLOWERS&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Humayunkhalid5&color=4F46E5&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Humayunkhalid5?label=FOLLOWERS&color=C084FC&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
-</p>
-    Who I Am
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+   Who I Am
 ```typescript
 const humayun = {
   title: "Full Stack Developer | Flutter App Developer | CS Student",
@@ -22,16 +23,20 @@ const humayun = {
     languages: ["C++", "Java", "C#"],
     mobile: ["Flutter"],
   },
-  launchedProjects: [], //  nothing public yet — new repos coming soon
-  certifications: [],   // to be added
-  status: "Actively learning & building projects",
+  launchedProjects: [],   // 🚧 coming soon
+  certifications: [],     // to be added
+  status: "🔨 Actively learning & building",
   openTo: ["Full-time roles", "Internships", "Collaborations"],
 };
 ```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
-</p>
-   Tech Stack
+</td>
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200"/>
+</td>
+</tr>
+</table>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
+   Tech Arsenal
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -44,32 +49,28 @@ const humayun = {
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
-</p>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
    GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Humayunkhalid5&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Humayunkhalid5&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Humayunkhalid5&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=8B5CF6&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Humayunkhalid5&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F472B6&currStreakLabel=F472B6" height="165"/>
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humayunkhalid5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humayunkhalid5&theme=react-dark&hide_border=true&bg_color=0D1117&color=C084FC&line=8B5CF6&point=F472B6" width="95%"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humayunkhalid5&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=c9d1d9&langs_count=8"/>
 </div>
-<br/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
 <div align="center">
-   Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Humayunkhalid5&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+🏆  Trophy Case
+<img src="https://github-profile-trophy.vercel.app/?username=Humayunkhalid5&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
-</p>
-   Featured Projects
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
+  Featured Projects
 <div align="center">
->   No public repositories yet — pinned project cards with tech tables and live/code links will land here as soon as they're published.
+>  No public repositories yet — bold pinned project cards with tech tables and live/code links will land right here the moment they ship.
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
-</p>
-   Connect With Me
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
+🔗  Let's Connect
 <div align="center">
 <a href="https://www.linkedin.com/in/humayun-khalid-b93870311">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -77,9 +78,7 @@ const humayun = {
 <a href="https://github.com/Humayunkhalid5">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80" />
 </div>
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:A78BFA&height=130&section=footer" width="100%"/>
-<div align="center">
-<sub>  Thanks for stopping by — more to come soon!</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,35:C084FC,70:8B5CF6,100:4F46E5&height=150&section=footer" width="100%"/>
