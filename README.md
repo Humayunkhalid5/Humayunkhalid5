@@ -15,20 +15,36 @@
 <table align="center">
 <tr>
 <td width="60%" valign="top">
- Who I Am
-```typescript
 const humayun = {
-  title: "Full Stack Developer | Flutter App Developer | CS Student",
-  stack: {
-    languages: \["C++", "Java", "C#"],
-    mobile: \["Flutter"],
-  },
-  launchedProjects: \[], //  nothing public yet — new repos coming soon
-  certifications: \[],   // to be added
-  status: "Actively learning \& building projects",
-  openTo: \["Full-time roles", "Internships", "Collaborations"],
+  name: "Humayun",
+  role: "Full Stack Developer • Flutter Developer • Computer Science Student",
+
+  code: ["C++", "Java", "C#"],
+  mobile: ["Flutter"],
+  learning: ["Backend Development", "System Design", "Cloud"],
+
+  currentlyBuilding: [
+    "Flutter applications",
+    "Full-stack web projects",
+    "Open-source repositories"
+  ],
+
+  interests: [
+    "Mobile Development",
+    "Web Development",
+    "Problem Solving",
+    "UI/UX"
+  ],
+
+  status: "Building projects and continuously learning 🚀",
+
+  openTo: [
+    "Software Engineering Internships",
+    "Full-time Opportunities",
+    "Open Source Collaborations"
+  ]
 };
-```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-superthin.svg" width="100%"/>
 </p>
